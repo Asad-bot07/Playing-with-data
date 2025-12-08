@@ -1,0 +1,1 @@
+print("Start of the AI/ML journey")
