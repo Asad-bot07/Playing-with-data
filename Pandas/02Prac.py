@@ -70,3 +70,19 @@ min     1.00000
 75%     7.75000
 max    10.00000
 """
+
+# selecting a particular column of the file
+print(df[["first_name", "last_name"]])
+
+# filter rows of the file
+print(df[df["id"] > 35])
+
+# get first row of the file by position
+print(df.iloc[0])
+
+# get the first column of the file by position
+print(df.iloc[:, 0])
+
+# selecting by label
+print(df.loc[0]) # rows
+print(df.loc[:, 0]) # columns
