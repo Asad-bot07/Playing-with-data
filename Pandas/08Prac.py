@@ -1,5 +1,3 @@
-# Data aggregation and grouping
-
 import numpy as np
 import pandas as pd
 
