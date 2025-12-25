@@ -19,15 +19,15 @@
 ## Visual Insights
 - Passenger class vs survival visualizations show higher survival in premium classes.
 <br>
-![Class vs Survival visuals](bar.png)
+![Class vs Survival visuals](./results/bar.png)
 <br>
 - Age distribution plots indicate a concentration of young adult passengers.
 <br>
-![Age Distribution](hsitogram.png)
+![Age Distribution](./results/hsitogram.png)
 <br>
 - Fare-based plots suggest increased survival probability with higher fares.
 <br>
-![fare-based plots](scatter.png)
+![fare-based plots](./results/scatter.png)
 
 ## Conclusion
 The analysis highlights the impact of **socio-economic status (Pclass & Fare)** and **age** on survival, forming a strong base for further **machine learning modeling**.
