@@ -6,7 +6,7 @@ It serves as a structured space to strengthen fundamentals before diving deeper 
 
 ---
 
-## 📌 Purpose of This Repository
+## Purpose of This Repository
 
 - Build a strong foundation for AI/ML
 - Revise essential Python-based tools used in data handling and analysis
@@ -17,20 +17,20 @@ This repository will be continuously updated as the learning journey progresses.
 
 ---
 
-## 🧰 Technologies Covered (So Far)
+## Technologies Covered
 
 - **Python** – Core programming concepts and logic building
 - **NumPy** – Numerical computing and array operations
 - **Pandas** – Data manipulation and analysis
 - **Matplotlib** – Data visualization and plotting
-
-More tools and libraries will be added as the journey advances into machine learning and deep learning.
+- **Seaborn** - Advanced data visualization and plotting
+- **Exploratory Data Analysis (EDA with reports)** - Data insights, patterns & report generation
 
 ---
 
 
 
-## 📖 Note
+## Note
 
 This repository is part of a **learning journey** and is intended for educational purposes. Improvements, refactoring, and enhancements will happen over time as understanding deepens.
 
